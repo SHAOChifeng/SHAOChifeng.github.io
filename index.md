@@ -1,25 +1,15 @@
 
  <center>
-     <h1>XXX</h1>
+     <h1>邵叱风</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             131****9235
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             fc_shao@126.com
          </span>
      </div>
  </center>
@@ -45,10 +35,6 @@
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **XXXX 项目**
-
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 

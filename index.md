@@ -27,23 +27,21 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，1995 年出生
+
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 博士，安徽理工大学，信息安全工程，2022.9~至今
+- 硕士，安徽理工大学，应用数学，2018.9~2021.7
+- 学士，安徽理工大学，数学与应用数学，2012.9~2016.7
+
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- 安徽科技学院，信息与网络工程学院，计算机系，助教，2021.6~2022.6
 
-   负责 XXX
+   教研工作，学院科研助理
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -62,3 +60,4 @@
 - ★★☆ Spring
 - ★☆☆ RabbitMQ、ZooKeeper
 - ★★☆ JavaScript
+## <img src="assets/project-diagram-solid.svg" width="30px"> 论文发表
